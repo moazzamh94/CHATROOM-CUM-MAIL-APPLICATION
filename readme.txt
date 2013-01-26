@@ -1,0 +1,3 @@
+This is a chat-cum mail sending application trying to prototype maximum features of ymail and facebook. It allows the user to send and receive mails as well as to send chat lines messages.
+
+This application was created  by me during winter @ CSE IIT KANPUR. It consists of a novel combination of ajax,javascript and several jquery algorithms like datepicker,ajax dropdown selecter, pquery,facebox,stylish alert box,etc. Basically I have tried to prototype the features available in ymail and facaebook. Mail saving feature is also implemented which saves the mail periodically at every 5 seconds interval using periodic ajax calls. It consists of several modes. It is basically an open source app.
